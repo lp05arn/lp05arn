@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lp05arn
-- 👀 I’m interested in aprender cosas nuevas y tener trabajos que hacer.
+- 👀 I’m interested in learning new things and skills
 - 🌱 I’m currently learning  python
-- 💞️ I’m looking to collaborate on  proyectos nuevbos y sencillos para ganar experiencia
+- 💞️ I’m looking to collaborate on projects and jobs to gain experience
 - 📫 How to reach me: ruiz.navarrete.alejandro@gmail.com
 
 <!---
