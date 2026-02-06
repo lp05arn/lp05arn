@@ -1,6 +1,22 @@
-- 👋 Hi, I’m @lp05arn
-- 👀 I’m interested in learning new things and skills
-- 💞️ I’m looking to collaborate on projects and jobs
+- 👋 I'm a Computer Science & Mathematics student with a strong interest in software development, algorithms, and collaborative projects.
+I enjoy learning by building real applications and contributing to projects where I can grow as a developer while adding value to a team.
+
+- 👀 I'm actively looking to participate in projects, collaborate with other developers, and contribute to open-source or academic initiatives.
+If you have an idea, a project in progress, or need help with development — feel free to reach out!
+
+- 🛠️ Technical Skills
+
+  Main stack:
+
+  🐍 Python – application development, algorithms, scripting
+  ☕ Java – object-oriented programming
+  🗄️ Databases – relational databases & SQL
+  🐧 Linux – daily usage, development environment, CLI tools
+
+  Currently learning:
+
+  ⚙️ C++ – focused on performance, algorithms, and low-level concepts
+  
 - 📫 How to reach me: ruiz.navarrete.alejandro@gmail.com
 
 <!---
