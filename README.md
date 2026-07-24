@@ -12,9 +12,6 @@ If you have an idea, a project in progress, or need help with development — fe
   ☕ Java – object-oriented programming
   🗄️ Databases – relational databases & SQL
   🐧 Linux – daily usage, development environment, CLI tools
-
-  Currently learning:
-
   ⚙️ C++ – focused on performance, algorithms, and low-level concepts
   
 - 📫 How to reach me: ruiz.navarrete.alejandro@gmail.com
